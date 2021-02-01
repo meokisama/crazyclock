@@ -19,7 +19,8 @@
 A fancy realtime clock with creative modern UI design...
 ## Demo
 [Click here !](https://meokisama.github.io/crazyclock/)
-
+## Credit
+Based on MananTank's project.
 ## Find me around the web 🌎:
 <a href="https://facebook.com/slytherinnn/"><img align="left" width="150" height="150" src="https://github.com/meokisama/meokisama/blob/master/image/2750554.png"> </a>
 - Information in public on <a href="https://meokisama.github.io/">__Blog__</a> ✍🏾
